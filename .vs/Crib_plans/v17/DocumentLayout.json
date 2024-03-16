@@ -1,12 +1,132 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\magly\\source\\repos\\Crib_plans\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|c:\\users\\magly\\source\\repos\\crib_plans\\formexpenditureview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|solutionrelative:formexpenditureview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|c:\\users\\magly\\source\\repos\\crib_plans\\formexpenditureview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|solutionrelative:formexpenditureview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|c:\\users\\magly\\source\\repos\\crib_plans\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|solutionrelative:formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|C:\\Users\\magly\\source\\repos\\Crib_plans\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|C:\\Users\\magly\\source\\repos\\Crib_plans\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|C:\\Users\\magly\\source\\repos\\Crib_plans\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|solutionrelative:formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|C:\\Users\\magly\\source\\repos\\Crib_plans\\formexpenditure.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B361942-2E25-4E25-AB48-8B781388C8EF}|Crib_plans.vbproj|solutionrelative:formexpenditure.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormExpenditureView.vb",
+              "DocumentMoniker": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormExpenditureView.vb",
+              "RelativeDocumentMoniker": "FormExpenditureView.vb",
+              "ToolTip": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormExpenditureView.vb",
+              "RelativeToolTip": "FormExpenditureView.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-16T06:16:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormExpenditureView.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormExpenditureView.vb",
+              "RelativeDocumentMoniker": "FormExpenditureView.vb",
+              "ToolTip": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormExpenditureView.vb [Design]",
+              "RelativeToolTip": "FormExpenditureView.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-16T06:15:30.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHome.vb",
+              "DocumentMoniker": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormHome.vb",
+              "RelativeDocumentMoniker": "FormHome.vb",
+              "ToolTip": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormHome.vb",
+              "RelativeToolTip": "FormHome.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-15T10:36:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHome.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormHome.vb",
+              "RelativeDocumentMoniker": "FormHome.vb",
+              "ToolTip": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormHome.vb [Design]",
+              "RelativeToolTip": "FormHome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-14T09:29:16.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\magly\\source\\repos\\Crib_plans\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\magly\\source\\repos\\Crib_plans\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwFkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-14T08:03:45.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\magly\\source\\repos\\Crib_plans\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\magly\\source\\repos\\Crib_plans\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-14T08:03:24.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormExpenditure.vb",
+              "DocumentMoniker": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormExpenditure.vb",
+              "RelativeDocumentMoniker": "FormExpenditure.vb",
+              "ToolTip": "C:\\Users\\magly\\source\\repos\\Crib_plans\\FormExpenditure.vb",
+              "RelativeToolTip": "FormExpenditure.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-14T08:11:37.871Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

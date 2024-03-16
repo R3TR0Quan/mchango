@@ -49,7 +49,7 @@ Partial Class FormExpenditureAdd
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Location = New Point(77, 211)
+        Label2.Location = New Point(61, 143)
         Label2.Name = "Label2"
         Label2.Size = New Size(110, 20)
         Label2.TabIndex = 1
@@ -58,7 +58,7 @@ Partial Class FormExpenditureAdd
         ' Label3
         ' 
         Label3.AutoSize = True
-        Label3.Location = New Point(92, 258)
+        Label3.Location = New Point(76, 190)
         Label3.Name = "Label3"
         Label3.Size = New Size(65, 20)
         Label3.TabIndex = 2
@@ -67,7 +67,7 @@ Partial Class FormExpenditureAdd
         ' Label4
         ' 
         Label4.AutoSize = True
-        Label4.Location = New Point(77, 166)
+        Label4.Location = New Point(61, 98)
         Label4.Name = "Label4"
         Label4.Size = New Size(101, 20)
         Label4.TabIndex = 3
@@ -75,14 +75,14 @@ Partial Class FormExpenditureAdd
         ' 
         ' txtExName
         ' 
-        txtExName.Location = New Point(227, 208)
+        txtExName.Location = New Point(211, 140)
         txtExName.Name = "txtExName"
         txtExName.Size = New Size(171, 27)
         txtExName.TabIndex = 4
         ' 
         ' txtamount
         ' 
-        txtamount.Location = New Point(227, 258)
+        txtamount.Location = New Point(211, 190)
         txtamount.Name = "txtamount"
         txtamount.Size = New Size(171, 27)
         txtamount.TabIndex = 5
@@ -90,7 +90,7 @@ Partial Class FormExpenditureAdd
         ' rbnormal
         ' 
         rbnormal.AutoSize = True
-        rbnormal.Location = New Point(232, 165)
+        rbnormal.Location = New Point(216, 97)
         rbnormal.Name = "rbnormal"
         rbnormal.Size = New Size(80, 24)
         rbnormal.TabIndex = 6
@@ -101,7 +101,7 @@ Partial Class FormExpenditureAdd
         ' rbcustom
         ' 
         rbcustom.AutoSize = True
-        rbcustom.Location = New Point(350, 166)
+        rbcustom.Location = New Point(334, 98)
         rbcustom.Name = "rbcustom"
         rbcustom.Size = New Size(80, 24)
         rbcustom.TabIndex = 7
@@ -112,7 +112,7 @@ Partial Class FormExpenditureAdd
         ' clbpaid_by
         ' 
         clbpaid_by.FormattingEnabled = True
-        clbpaid_by.Location = New Point(163, 308)
+        clbpaid_by.Location = New Point(147, 240)
         clbpaid_by.Name = "clbpaid_by"
         clbpaid_by.Size = New Size(252, 136)
         clbpaid_by.TabIndex = 8
@@ -120,7 +120,7 @@ Partial Class FormExpenditureAdd
         ' lbPaidBy
         ' 
         lbPaidBy.AutoSize = True
-        lbPaidBy.Location = New Point(97, 330)
+        lbPaidBy.Location = New Point(81, 262)
         lbPaidBy.Name = "lbPaidBy"
         lbPaidBy.Size = New Size(60, 20)
         lbPaidBy.TabIndex = 9
@@ -128,7 +128,7 @@ Partial Class FormExpenditureAdd
         ' 
         ' btnADD
         ' 
-        btnADD.Location = New Point(455, 415)
+        btnADD.Location = New Point(334, 382)
         btnADD.Name = "btnADD"
         btnADD.Size = New Size(94, 29)
         btnADD.TabIndex = 10

@@ -27,7 +27,7 @@
     End Sub
 
     Private Sub addForm(frm As Form)
-        PanelCon.Controls.Clear()
+        PanelCon.Controls.Clear() '
         frm.TopLevel = False
         frm.TopMost = True
         frm.Dock = DockStyle.Fill
@@ -57,4 +57,7 @@
         lbNoAction.Hide()
     End Sub
 
+    Private Sub lbNoAction_Click(sender As Object, e As EventArgs) Handles lbNoAction.Click
+
+    End Sub
 End Class

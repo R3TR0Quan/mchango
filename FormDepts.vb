@@ -8,7 +8,7 @@ Public Class FormDepts
 
 
     Function CalculateIndividualDept() As List(Of Object)
-        Dim connetionString As String = "connection_string"
+        Dim connetionString As String = "server=localhost; user id=root; password= ''; database=crib_plans"
         Dim userCount As Integer = 0
         Dim debts As New List(Of Object)
 

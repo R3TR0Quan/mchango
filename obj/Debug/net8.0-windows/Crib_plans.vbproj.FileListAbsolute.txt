@@ -72,7 +72,6 @@ C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.FormD
 C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.FormExpenditure.resources
 C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.FormExpenditureAdd.resources
 C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.FormExpenditureView.resources
-C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.FormHome.resources
 C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.vbproj.GenerateResource.cache
 C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.AssemblyInfoInputs.cache
@@ -88,3 +87,5 @@ C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.Resou
 C:\Users\magly\source\repos\Crib_plans\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
 C:\Users\magly\source\repos\Crib_plans\bin\Debug\net8.0-windows\EntityFramework.dll
 C:\Users\magly\source\repos\Crib_plans\bin\Debug\net8.0-windows\System.Web.Providers.dll
+C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.sourcelink.json
+C:\Users\magly\source\repos\Crib_plans\obj\Debug\net8.0-windows\Crib_plans.FormHome.resources

@@ -104,9 +104,9 @@ Partial Class Form1
         ' 
         ' PanelContainer
         ' 
-        PanelContainer.Location = New Point(290, 93)
+        PanelContainer.Location = New Point(362, 157)
         PanelContainer.Name = "PanelContainer"
-        PanelContainer.Size = New Size(831, 531)
+        PanelContainer.Size = New Size(729, 216)
         PanelContainer.TabIndex = 2
         ' 
         ' Form1

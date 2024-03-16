@@ -50,7 +50,7 @@ Public Class Form1
         frm.TopLevel = False
         frm.TopMost = True
         frm.Dock = DockStyle.Fill
-        PanelContainer.Controls.Add(frm)
+        PanelContainer.Controls.Add(frm) '  Add the form to the panel container
         frm.Show()
 
     End Sub
@@ -58,13 +58,16 @@ Public Class Form1
     Private Sub change_menu(menu As String)
         Select Case menu
             Case "HOME"
-                addForm(FormHome)
+                addForm(Me)
             Case "EXPENDITURE"
                 addForm(FormExpenditure)
             Case "DEPT"
                 addForm(FormDepts)
+            Case "EXPENSES"
+                addForm(FormExpenditureView)
         End Select
     End Sub
+
 
     Private Sub btnhome_Click(sender As Object, e As EventArgs) Handles btnhome.Click
         ActivateButton(btnhome, RGBColors.color1)
@@ -82,5 +85,7 @@ Public Class Form1
         change_menu("DEPT")
     End Sub
 
+    Private Sub PanelContainer_Paint(sender As Object, e As PaintEventArgs) Handles PanelContainer.Paint
 
+    End Sub
 End Class

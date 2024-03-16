@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Crib_plans"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c0457fe47b92756a8c97b7297f4df8231bdae63"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Crib_plans"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Crib_plans"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

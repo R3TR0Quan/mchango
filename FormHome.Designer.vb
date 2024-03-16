@@ -23,68 +23,77 @@ Partial Class FormHome
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormHome))
+        PanelContainer = New Panel()
+        lbviewdp = New Label()
+        lbviewex = New Label()
         btnexpenses = New Button()
         btndepts = New Button()
-        Label1 = New Label()
-        Label2 = New Label()
         SuspendLayout()
+        ' 
+        ' PanelContainer
+        ' 
+        PanelContainer.Location = New Point(172, 308)
+        PanelContainer.Name = "PanelContainer"
+        PanelContainer.Size = New Size(729, 216)
+        PanelContainer.TabIndex = 3
+        ' 
+        ' lbviewdp
+        ' 
+        lbviewdp.AutoSize = True
+        lbviewdp.Font = New Font("Rockwell", 14F, FontStyle.Italic)
+        lbviewdp.Location = New Point(624, 278)
+        lbviewdp.Name = "lbviewdp"
+        lbviewdp.Size = New Size(134, 27)
+        lbviewdp.TabIndex = 13
+        lbviewdp.Text = "View Depts"
+        ' 
+        ' lbviewex
+        ' 
+        lbviewex.AutoSize = True
+        lbviewex.Font = New Font("Rockwell", 14F, FontStyle.Italic)
+        lbviewex.Location = New Point(261, 278)
+        lbviewex.Name = "lbviewex"
+        lbviewex.Size = New Size(172, 27)
+        lbviewex.TabIndex = 12
+        lbviewex.Text = "View Expenses"
         ' 
         ' btnexpenses
         ' 
         btnexpenses.Image = CType(resources.GetObject("btnexpenses.Image"), Image)
-        btnexpenses.Location = New Point(80, 66)
+        btnexpenses.Location = New Point(202, 12)
         btnexpenses.Name = "btnexpenses"
         btnexpenses.Size = New Size(303, 240)
-        btnexpenses.TabIndex = 0
+        btnexpenses.TabIndex = 11
         btnexpenses.UseVisualStyleBackColor = True
         ' 
         ' btndepts
         ' 
         btndepts.Image = CType(resources.GetObject("btndepts.Image"), Image)
-        btndepts.Location = New Point(412, 66)
+        btndepts.Location = New Point(542, 12)
         btndepts.Name = "btndepts"
         btndepts.Size = New Size(303, 240)
-        btndepts.TabIndex = 1
+        btndepts.TabIndex = 10
         btndepts.UseVisualStyleBackColor = True
-        ' 
-        ' Label1
-        ' 
-        Label1.AutoSize = True
-        Label1.Font = New Font("Rockwell", 14F, FontStyle.Italic)
-        Label1.Location = New Point(144, 322)
-        Label1.Name = "Label1"
-        Label1.Size = New Size(172, 27)
-        Label1.TabIndex = 2
-        Label1.Text = "View Expenses"
-        ' 
-        ' Label2
-        ' 
-        Label2.AutoSize = True
-        Label2.Font = New Font("Rockwell", 14F, FontStyle.Italic)
-        Label2.Location = New Point(476, 322)
-        Label2.Name = "Label2"
-        Label2.Size = New Size(134, 27)
-        Label2.TabIndex = 3
-        Label2.Text = "View Depts"
         ' 
         ' FormHome
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(950, 709)
-        Controls.Add(Label2)
-        Controls.Add(Label1)
-        Controls.Add(btndepts)
+        ClientSize = New Size(1132, 533)
+        Controls.Add(lbviewdp)
+        Controls.Add(lbviewex)
         Controls.Add(btnexpenses)
-        FormBorderStyle = FormBorderStyle.None
+        Controls.Add(btndepts)
+        Controls.Add(PanelContainer)
         Name = "FormHome"
         Text = "FormHome"
         ResumeLayout(False)
         PerformLayout()
     End Sub
 
+    Friend WithEvents PanelContainer As Panel
+    Friend WithEvents lbviewdp As Label
+    Friend WithEvents lbviewex As Label
     Friend WithEvents btnexpenses As Button
     Friend WithEvents btndepts As Button
-    Friend WithEvents Label1 As Label
-    Friend WithEvents Label2 As Label
 End Class

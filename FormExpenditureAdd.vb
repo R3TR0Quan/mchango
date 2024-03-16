@@ -62,7 +62,7 @@ Public Class FormExpenditureAdd
         Dim cmd As New MySqlCommand
         Dim dr As MySqlDataReader
         Dim str As String
-        str = "server=localhost; user id=root; password=; database=crib_plans"
+        str = "server=localhost; user id=root; password= ''; database=crib_plans"
         conn.ConnectionString = str
         conn.Open()
         cmd.Connection = conn
@@ -79,7 +79,7 @@ Public Class FormExpenditureAdd
         Dim conn As New MySqlConnection
         Dim cmd As New MySqlCommand
         Dim str As String
-        str = "server=localhost; user id=root; password=; database=crib_plans"
+        str = "server=localhost; user id=root; password= ''; database=crib_plans"
         conn.ConnectionString = str
         conn.Open()
         cmd.Connection = conn
